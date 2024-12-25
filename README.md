@@ -1,4 +1,4 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Prasta</h1>
+<h1 align="center">Hi, I'm Prasta</h1>
 <h3 align="center">Saya Seorang Pelajar SMK Yang Ingin Belajar Programing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prastax&label=Profile%20views&color=0e75b6&style=flat" alt="prastax" /> </p>

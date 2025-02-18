@@ -9,7 +9,7 @@
 
 - Saya Belajar [Belajar](Dan belajar)
 
-- ðŸŒ± Iâ€™m currently learning **JS,CSS, another**
+  currently learning **JS,CSS, another**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
